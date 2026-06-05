@@ -1,7 +1,9 @@
 package view;
 
+//Classe responsável por exibir o menu principal do sistema
 public class MenuPrincipal {
 
+// Exibe as opções disponíveis para o usuário
     public void exibirMenu() {
 
         System.out.println("==================================");

@@ -1,5 +1,6 @@
 package model;
 
+// Classe responsável por armazenar os dados dos usuários do sistema
 public class Usuario {
 
     private String nomeCompleto;

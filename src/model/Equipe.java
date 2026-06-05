@@ -1,7 +1,7 @@
 package model;
 
+//Classe responsável por representar uma equipe de trabalho
 public class Equipe {
-
     private String nome;
     private String descricao;
     private String membros;

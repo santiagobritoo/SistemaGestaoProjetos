@@ -1,5 +1,6 @@
 package model;
 
+// Classe responsável por representar uma tarefa do projeto
 public class Tarefa {
 
     private String nome;

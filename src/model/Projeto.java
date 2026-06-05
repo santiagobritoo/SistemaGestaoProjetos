@@ -1,7 +1,7 @@
 package model;
 
+// Classe responsável por representar um projeto
 public class Projeto {
-
     private String nome;
     private String descricao;
     private String dataInicio;
